@@ -1,0 +1,12 @@
+descricao: dojo 23-02-2022
+desafios:
+  - https://leetcode.com/problems/merge-two-sorted-lists/
+participantes:
+  - Djair
+  - Gildson
+criticas:
+  - a preparação do ambiente acabou atrapalhando para o início do evento
+sugestoes:
+  - para um próximo evento não teremos tempo gasto com configuração de ambiente
+elogios:
+  - foi possivel utilizar testes unitários e de benchmark
