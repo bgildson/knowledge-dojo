@@ -1,0 +1,15 @@
+descricao: exemplo de arquivo com resumo para um evento de dojo
+desafios:
+  - link para o desafio abordado no dojo
+participantes:
+  - joao <joao@email.com>
+  - maria <maria@email.com>
+  - pedro <pedro@email.com>
+criticas:
+  - tempo muito curto para cada participante
+  - nem todos participaram
+sugestoes:
+  - aumentar o tempo para cada participante
+  - aumentar o tempo do evento
+elogios:
+  - conseguimos concluir o desafio
